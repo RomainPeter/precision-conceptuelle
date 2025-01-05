@@ -43,7 +43,7 @@ function updateTourText() {
 
 function updateInstruction() {
     const instructions = [
-        "Trouve la catégorie (le genre) le plus général",
+        "Trouve la catégorie (le genre) la plus générale",
         "Trouve la catégorie inférieure la plus générale",
         "Trouve le genre prochain (= la plus petite catégorie à laquelle la chose appartient. Par exemple, pour un \"Labrador\", le genre prochain est \"chien\").",
         "Trouve toutes les différences spécifiques (= les caractéristiques qui, mises ensemble, permettent de définir la chose sans qu'il soit possible de la confondre avec une autre de la même catégorie)."
